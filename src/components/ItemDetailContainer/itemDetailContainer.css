@@ -7,31 +7,30 @@
 }
 
 h4 {
-    margin: 8px;
+    margin: 10px;
+    padding: 10px;
     font-family: 'Josefin Sans', sans-serif;
     color:  rgb(73, 60, 50);
-    font-size: 30px;
+    font-size: 26px;
     letter-spacing: 2px;
 }
 
-img{ 
-    width: 450px;    
-}
+
 
 button{
-    margin:15px;
-    padding: 15px;
+    margin:12px;
+    padding: 18px;
     background-image: linear-gradient(to right, #628f55ba 0%, #061700e7  51%, #50a439d7  100%);
     background-size: 200% auto;
-    transition: 0.5s;
+    transition: 0.3s;
     text-transform: uppercase;
     color:rgb(255, 253, 248);
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bolder;
-    letter-spacing: 5px;
-    border-top-left-radius: 15px; 
-    border-bottom-right-radius: 15px;
+    letter-spacing: 4px;
+    border-top-left-radius: 20px; 
+    border-bottom-right-radius: 20px;
     cursor: pointer;
 }
 button:hover {

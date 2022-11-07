@@ -14,15 +14,16 @@ function ItemListContainer() {
         
     
     useEffect(()=>{
-        if (category === undefined) {
-        getItems()
-        .then((respDatos)=> setData(respDatos))
-        .finally(() => setIsLoading(false));
+        setIsLoading(true);
+            if (category === undefined) {
+            getItems()
+            .then((respDatos)=> setData(respDatos))
+            .finally(() => setIsLoading(false));
         } else{
             getItemsByCategory(category)
             .then((respDatosFiltredos) => setData(respDatosFiltredos))
+            .finally(()=> setIsLoading(false))
         }
-
         }, [category]);
 
         return (
@@ -30,8 +31,8 @@ function ItemListContainer() {
                 {isLoading && <DotPulse size={80} speed={1.5} color="green"/>}
                 <div className="main container">
                     <ItemList data={data}/>  
-                    </div>
                 </div>
+            </div>
         );
     }
 

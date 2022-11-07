@@ -20,12 +20,13 @@
 }
 
 h5{
-    margin: 15px;
-    padding: 10px;
-    color:  rgb(251, 238, 228);
+    margin: 55px;
+    padding: 20px;
+    color:  rgb(6, 71, 33);
     font-family: 'Josefin Sans', sans-serif;
     font-size: 35px;
-    font-weight:lighter;
+    letter-spacing: 4px;
+    font-weight:bolder;
 }
 
 h6{

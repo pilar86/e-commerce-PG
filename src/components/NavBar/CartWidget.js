@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import "./cartWidget.css";
 import { cartContext } from "../../context/cartContext";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

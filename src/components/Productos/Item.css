@@ -1,28 +1,24 @@
 .card{
-    background-image: linear-gradient(to bottom, #e2d0c4 50%, #fff6ef  80%, #ddcbbb  100%);
+    background-color:  #f6f2ee;
     transition: 0.5s;
     margin: 0px; 
-    width: 360px;
+    width: 340px;
     height: 100%;
-    border-radius: 15px;
-    
-    box-shadow: 0px 0px 30px rgba(114, 109, 105, 0.736);
-    
+    border-radius: 20px;
+    box-shadow: 0px 0px 30px rgba(114, 109, 105, 0.736); 
     overflow: hidden;
     transition:  all 0.10s ease-in;
     cursor: pointer;
-   
 }
 
 .card:hover {
     background-position: right center;
-    color: #fff;
     text-decoration: none;
   }
 
 .card-img{
-    width: 360px;
-    height: 400px;
+    width: 340px;
+    height: 420px;
     object-fit: cover;
 }
 .card-img img{
@@ -32,33 +28,30 @@
 }
 
 .card:hover{
-    transform: translateY(-20px);
+    transform: translateY(-25px);
 }
 
 .card-detail{
     margin-top: 19px;
     margin-bottom: 19px;
-    padding:3px;
-    
+    padding:3px; 
     border-bottom-left-radius: 9px;
     border-bottom-right-radius: 9px;
 }
 
 button.ver-mas {
     background-image: linear-gradient(to right, #4d8c3bba 0%, #061700e7  51%, #50a439d7  100%);
-    padding: 18px 25px;
+    padding: 18px 18px;
     margin: 6px;
     background-size: 200% auto;
-    
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: bold;
     text-transform: uppercase;
     transition: 0.5s;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
     border-top-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    
+    border-bottom-right-radius: 25px;   
     cursor: pointer;
 }         
 

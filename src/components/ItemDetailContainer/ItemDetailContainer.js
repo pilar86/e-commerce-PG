@@ -21,15 +21,3 @@ export const ItemDetailContainer = () =>  {
 }
 
 export default ItemDetailContainer;
-
-
-
-
-/*forma larga
-    const params = useParams();
-    const id = params.id; */
-
-    /*sugar syntax / destracturing 
-    const { id } = useParams(); 
-    
-    */
