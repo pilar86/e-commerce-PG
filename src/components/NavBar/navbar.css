@@ -23,16 +23,16 @@
 h1{  
     font-family: 'Cinzel Decorative', cursive;
     color: rgb(253, 252, 251);
-    font-size: 60px;
+    font-size: 65px;
     font-weight: lighter;
-    margin-bottom: 10px;
-    letter-spacing: 20px;
+    margin-bottom: 1rem;
+    letter-spacing: 30px;
 }
 
 h2{
     font-family: 'Cinzel Decorative', cursive;
     color:  rgb(251, 238, 228);
-    font-size: 30px;
+    font-size: 25px;
     font-weight:lighter;
     margin-top: 0;
     margin-bottom: 2rem;
@@ -50,7 +50,7 @@ h2{
 }
 
 .sectionsNav ul li{
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     display: inline-block;
     align-items: center;
     justify-content: center;
@@ -58,15 +58,15 @@ h2{
 
 .sectionsNav ul li a{
     font-family: 'Cinzel Decorative', cursive;
-    margin-top: 1rem;
-    padding-left: 3rem;
-    padding-right: 3rem;
+    margin-top: 8px;
+    padding-left: 2rem;
+    padding-right: 2rem;
     text-decoration: underline;
-    text-underline-offset: 14px;
+    text-underline-offset: 8px;
     text-decoration-thickness: 1px;
     color:  rgb(251, 238, 228);
-    font-size: 26px;
-    letter-spacing: 8px;
+    font-size: 20px;
+    letter-spacing: 5px;
 }
 
 @media (max-width:460px) {
@@ -104,7 +104,7 @@ h2{
         .titulos {
             margin-top:25px;
             margin-bottom:20px;
-            width:90%;
+            width:78%;
         }
     }
 

@@ -3,30 +3,28 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin:2rem;
+    margin:1rem;
 }
 
 h4 {
     margin: 10px;
-    padding: 10px;
+    padding: 5px;
     font-family: 'Josefin Sans', sans-serif;
     color:  rgb(73, 60, 50);
-    font-size: 26px;
+    font-size: 22px;
     letter-spacing: 2px;
 }
 
-
-
 button{
-    margin:12px;
-    padding: 18px;
+    margin:10px;
+    padding: 12px;
     background-image: linear-gradient(to right, #628f55ba 0%, #061700e7  51%, #50a439d7  100%);
     background-size: 200% auto;
     transition: 0.3s;
     text-transform: uppercase;
     color:rgb(255, 253, 248);
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: bolder;
     letter-spacing: 4px;
     border-top-left-radius: 20px; 

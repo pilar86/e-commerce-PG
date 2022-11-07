@@ -2,7 +2,7 @@
     background-color:  #f6f2ee;
     transition: 0.5s;
     margin: 0px; 
-    width: 340px;
+    width: 320px;
     height: 100%;
     border-radius: 20px;
     box-shadow: 0px 0px 30px rgba(114, 109, 105, 0.736); 
@@ -17,8 +17,8 @@
   }
 
 .card-img{
-    width: 340px;
-    height: 420px;
+    width: 320px;
+    height: 400px;
     object-fit: cover;
 }
 .card-img img{
@@ -32,8 +32,7 @@
 }
 
 .card-detail{
-    margin-top: 19px;
-    margin-bottom: 19px;
+    margin-bottom: 9px;
     padding:3px; 
     border-bottom-left-radius: 9px;
     border-bottom-right-radius: 9px;
@@ -41,11 +40,11 @@
 
 button.ver-mas {
     background-image: linear-gradient(to right, #4d8c3bba 0%, #061700e7  51%, #50a439d7  100%);
-    padding: 18px 18px;
+    padding: 14px 14px;
     margin: 6px;
     background-size: 200% auto;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
     transition: 0.5s;
@@ -66,9 +65,9 @@ button.ver-mas:hover {
     margin: 8px;
     padding: 2px;
     font-family: 'Poiret One', cursive;
-    font-size: 24px;
+    font-size: 20px;
     color:  rgb(121, 84, 55);
-    letter-spacing: 4px;
+    letter-spacing: 3px;
 }
 
  
