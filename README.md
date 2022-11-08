@@ -37,8 +37,11 @@ Se trata de un ecommerce de productos de cosmética natural realizado con compon
 #### clona este repositorio
 
 $ git clone https://github.com/pilar86/e-commerce-PG.git
+
 $ npm  install
+
 $npm start
 
 ## Podes ver la pagina  haciendo click [aquí](http://https://e-commerce-pg.vercel.app/home "Natural")
+
 ## Gracias!
