@@ -44,4 +44,4 @@ $npm start
 
 ## Podes ver la pagina  haciendo click [aquí](http://https://e-commerce-pg.vercel.app/home "Natural")
 
-## Gracias!
+## Gracias! :sparkling_heart:
