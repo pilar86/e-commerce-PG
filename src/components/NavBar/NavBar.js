@@ -10,7 +10,7 @@ function NavBar () {
             <div className="titulos">
                 <h1>NatUraL</h1>
             <div className="subtitle">
-                <h2> Beauty & Skin Care </h2>
+                <h2> Beauty & Skincare </h2>
             </div>
             </div>
                 

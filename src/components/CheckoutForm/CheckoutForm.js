@@ -3,6 +3,7 @@ import {useNavigate} from "react-router-dom";
 import { useContext } from 'react';
 import { cartContext } from "../../context/cartContext";
 import { buyOrder } from "../../services/firestore";
+
 import "./checkoutForm.css";
 
 function CheckoutForm() {
@@ -18,6 +19,8 @@ function CheckoutForm() {
     
     function handleCheckout(event) {
         event.preventDefault(); 
+
+
         
         const orderData ={
             buyer: dataForm,
@@ -38,6 +41,7 @@ function CheckoutForm() {
         newDataForm[inputName] = value;
         setDataForm(newDataForm);
     }
+
 
     return (
         <div className="form-container">
@@ -78,12 +82,10 @@ function CheckoutForm() {
                     />
                 </div>
             </form>
-            <button className="finalizar-compra" onClick = {handleCheckout}>Finalizar Compra</button> 
+            <button disabled={!dataForm.name || !dataForm.phone || !dataForm.email} className="finalizar-compra" onClick = {handleCheckout}>Finalizar Compra</button> 
             
         </div>
-    ) 
-}
-
-
+    )
+    }
 
 export default CheckoutForm;
