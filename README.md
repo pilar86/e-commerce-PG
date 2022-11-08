@@ -2,7 +2,7 @@
  
 >  #  NATURAL -Beauty & Skincare- 
 
-##Introducción:
+## Introducción:
 
 Este es el Proyecto Final del curso React Js de Coderhouse.
 
