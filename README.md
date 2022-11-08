@@ -12,18 +12,18 @@ Se trata de un ecommerce de productos de cosmética natural realizado con compon
 #### En la página podras:
 
 - Navegar sobre el un Navbar y entrar en diferentes **Categorias** .
-- Navegar por un** listado de productos**.
+- Navegar por un **listado de productos** .
 - Ver el **detalle del producto**  seleccionado.
 - Una vez se encuentre en el detalle del producto:
 1. Tendrá la opción de **agregar** al **carrito de compras** ó de **quitar** de acuerdo al **stock** de cada producto. 
-2. Luego se podrá optar por** ver** el producto **en el carrito** ó seguir comprando a través de **diferentes botones** "Ir al carrito" "Seguir Comprando".
+2. Luego se podrá optar por **ver** el producto **en el carrito** ó seguir comprando a través de **diferentes botones** "Ir al carrito" "Seguir Comprando".
 
-- Unas vez que se redirija al **carrito**:
+- Unas vez que se redirija al **carrito** :
 
 1. Podrá ver el/los productos que se agregaron.
-2. Tendrá la opción de **quitar alguno o todos**.
-3. Podrá **seguir comprando**.
-4. Podrá **finalizar la compra**. Para lo cuál deberá llenar un **formulario**.
+2. Tendrá la opción de **quitar alguno o todos** .
+3. Podrá **seguir comprando** .
+4. Podrá **finalizar la compra** . Para lo cuál deberá llenar un **formulario** .
 
 ## Herramientas:
 
