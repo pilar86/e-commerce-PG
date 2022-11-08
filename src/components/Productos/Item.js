@@ -27,10 +27,3 @@ function Item(props) {
 }
 
 export default Item;
-
-/* 
-     <ItemCount initial={1} stock={10} onAdd={onAdd}/>
-        <ItemCount initial={1} stock={15} onAdd={onAdd}/>
-        <ItemCount initial={1} stock={0} onAdd={onAdd}/>
-
-        */

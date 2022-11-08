@@ -22,7 +22,7 @@ export default function CartContextProvider({children}) {
         if (isInCart(newItem.id)) {
             const findProduct = cart.find(data => data.id === newItem.id)
             const productIndex = cart.indexOf(findProduct)
-            const auxArray = [...cart] /*copia del estado*/
+            const auxArray = [...cart] 
             auxArray[productIndex].qantty += qantty
             setCart(auxArray)
         } else {

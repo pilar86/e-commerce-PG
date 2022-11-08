@@ -254,22 +254,3 @@ export function getSingleItem(idItem) {
     },1500)
     });
 }
-
-
-
-
-/* SIMULANDO una conexion a una BASE de DATOS (simular 1 demora en devolver los datos utilizando 1promesa xq es algo asíncrono)
-
--Cuando tenga/implemente 1 DB real voy a poder poner en la funcion (en este caso -getItems- con todo el código q tiene adentro que ahora es simulado), la funcionalidad real que tng la base de datos.
-
--y no ir a cambiar c/u de los componentes 
-- resolve y reject - No son palabrasreservadas.
-
-export function getSingleItem() {
-    return new Promise ((resolve, reject)=> {
-        setTimeout(()=> {
-            resolve (data[12]);
-        },1100);
-    })
-}
-*/ 
