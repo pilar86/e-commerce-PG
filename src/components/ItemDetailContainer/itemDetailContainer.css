@@ -36,3 +36,12 @@ button:hover {
     color: #fff;
     text-decoration: none;
 }
+
+@media (max-width:425px){
+    button {
+        margin: 10px;
+        padding: 10px;
+        font-size: 12px;
+    }
+
+}

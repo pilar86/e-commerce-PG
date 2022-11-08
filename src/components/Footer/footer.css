@@ -36,5 +36,30 @@ h6{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 35px;
     font-weight: lighter;
+}
 
+.copy-right h6{
+    margin: 15px;
+    padding: 10px;
+    color:  rgba(251, 238, 228, 0.814);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+
+}
+.copy-right svg{
+    font-size: 10px;
+}
+
+@media (max-width:460px) {
+    
+    .title-redes {
+        margin-top:25px;
+        margin-bottom:25px;
+        width:90%;
+    }
+
+    h6{
+        font-size: 20px;
+    }
 }
