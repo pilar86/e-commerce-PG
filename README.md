@@ -1,13 +1,16 @@
- ##Bienidos a  mi proyecto: 
->  # :fa-pagelines::tw-1f33f: NATURAL -Beauty & Skincare- :tw-1f33f: :fa-pagelines:
+ ## Bienvenidos a  mi proyecto: 
+ 
+>  #  NATURAL -Beauty & Skincare- 
 
-###Introducción:
+##Introducción:
+
 Este es el Proyecto Final del curso React Js de Coderhouse.
 
 Se trata de un ecommerce de productos de cosmética natural realizado con componentes Javascript y Firebase como servidor en la nube. Además buscar lograr la mejor Experiencia de Usuario.
 
-###:fa-cogs: Componentes Js. :fa-cogs: :
-####En la página podras:
+## Componentes Js. 
+#### En la página podras:
+
 - Navegar sobre el un Navbar y entrar en diferentes **Categorias** .
 - Navegar por un** listado de productos**.
 - Ver el **detalle del producto**  seleccionado.
@@ -16,22 +19,26 @@ Se trata de un ecommerce de productos de cosmética natural realizado con compon
 2. Luego se podrá optar por** ver** el producto **en el carrito** ó seguir comprando a través de **diferentes botones** "Ir al carrito" "Seguir Comprando".
 
 - Unas vez que se redirija al **carrito**:
+
 1. Podrá ver el/los productos que se agregaron.
 2. Tendrá la opción de **quitar alguno o todos**.
 3. Podrá **seguir comprando**.
 4. Podrá **finalizar la compra**. Para lo cuál deberá llenar un **formulario**.
 
-### Herramientas :fa-cog:
+## Herramientas:
+
 - HTML
 - CSS5
 - JAVASCRIPT
 - REACT 
 
-###Instalación :fa-download:
-####clona este repositorio
+## Instalación 
+
+#### clona este repositorio
+
 $ git clone https://github.com/pilar86/e-commerce-PG.git
 $ npm  install
 $npm start
 
-##Podes ver la pagina  haciendo click [aquí](http://https://e-commerce-pg.vercel.app/home "Natural")
-## Gracias!:tw-1f496:
+## Podes ver la pagina  haciendo click [aquí](http://https://e-commerce-pg.vercel.app/home "Natural")
+## Gracias!
