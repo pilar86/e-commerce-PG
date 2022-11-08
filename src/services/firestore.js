@@ -23,7 +23,6 @@ const firebaseConfig = {
   appId: "1:237589714922:web:701d4b40ce9d9ade3f4493"
 };
 
-// Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const firestore = getFirestore(app);
 
@@ -44,7 +43,7 @@ export async function getSingleItem(idParams) {
  const docSnapshot = await getDoc(docRef);
  return { ...docSnapshot.data(), id: docSnapshot.id };
   } catch (error) { 
-    console.error(error);
+    
   }
 }
 

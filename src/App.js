@@ -9,8 +9,6 @@ import CartView from './components/CartView/CartView';
 import Checkout from './components/Checkout/Checkout';
 
 
-
-
 function App() {
 
   return (

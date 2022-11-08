@@ -79,8 +79,11 @@ function CheckoutForm() {
                 </div>
             </form>
             <button className="finalizar-compra" onClick = {handleCheckout}>Finalizar Compra</button> 
+            
         </div>
     ) 
 }
+
+
 
 export default CheckoutForm;

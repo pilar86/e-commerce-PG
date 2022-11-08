@@ -1,13 +1,17 @@
 import "./footer.css";
 import { AiFillCopyrightCircle } from "react-icons/ai";
-import { FaHeart } from "react-icons/fa";
+import { FaHeart, FaInstagram, FaFacebookSquare, FaYoutube, FaRegEnvelope, FaWhatsapp } from "react-icons/fa";
 
 function Footer () {
     return (
         <div className="footer">
             <div className="title-redes">
-                <h6>Seguinos en Redes Sociales</h6>
-                <h6> redes </h6>
+                <h6>Seguinos en Redes y Contactanos</h6>
+                <div>
+                   <h6>
+                    <FaInstagram/> <FaFacebookSquare/> <FaYoutube/> <FaRegEnvelope/> <FaWhatsapp/>
+                   </h6>
+                </div>
             </div>
             
             
