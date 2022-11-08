@@ -82,7 +82,7 @@ function CheckoutForm() {
                     />
                 </div>
             </form>
-            <button className="finalizar-compra" onClick = {handleCheckout}>Finalizar Compra</button> 
+            <button disabled={!dataForm.name || !dataForm.phone || !dataForm.email} onClick = {handleCheckout}>Finalizar Compra</button> 
             
         </div>
     )

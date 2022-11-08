@@ -1,8 +1,8 @@
 ## Bienvenidos a  mi proyecto: 
->  # NATURAL -Beauty & Skincare- 
+>  # 	:leaves: NATURAL -Beauty & Skincare- 	:leaves:
 
 ## Introducción:
-=======
+
  ## Bienvenidos a  mi proyecto: 
  
 >  #  NATURAL -Beauty & Skincare- 
@@ -56,7 +56,7 @@ $ npm  install
 $npm start
 
 
-## Podes ver la pagina  haciendo click [aquí](http://https://e-commerce-pg.vercel.app/home "Natural")
+## Podes ver la pagina  haciendo click [aquí](e-commerce-4c9kc2zbd-pilar86.vercel.app)
 
-## Gracias!
+## Gracias! :sparkling_heart:
 
