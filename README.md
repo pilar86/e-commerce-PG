@@ -42,6 +42,6 @@ $ npm  install
 
 $npm start
 
-## Podes ver la pagina  haciendo click [aquí](http://https://e-commerce-pg.vercel.app/home)
+## Podes ver la pagina  haciendo click [aquí](https://e-commerce-o89t1i5pn-pilar86.vercel.app/)
 
 ## Gracias! :sparkling_heart:
