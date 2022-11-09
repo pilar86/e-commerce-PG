@@ -3,21 +3,12 @@
 
 ## Introducción:
 
- ## Bienvenidos a  mi proyecto: 
- 
->  #  NATURAL -Beauty & Skincare- 
-
-## Introducción:
-
 
 Este es el Proyecto Final del curso React Js de Coderhouse.
 
 Se trata de un ecommerce de productos de cosmética natural realizado con componentes Javascript y Firebase como servidor en la nube. Además buscar lograr la mejor Experiencia de Usuario.
 
 
-## Componentes Js :
-
-#### En la página podras:
 ## Componentes Js. 
 #### En la página podras:
 
