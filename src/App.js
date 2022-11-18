@@ -22,7 +22,7 @@ function App() {
         <Route path="/category/:category" element={<ItemListContainer/>}/>
         <Route path="/body/:id" element={<ItemDetailContainer/>}/>
         <Route path="/checkout/:orderid" element={<Checkout/>}/>
-        <Route path="*" element={<h5>"Algo salió mal, ir a Home"</h5>}/>
+        <Route path="*" element={<h5>"Bienvenido a NaturaL! ir a Home"</h5>}/>
         <Route path="/cartView" element={<CartView/>}/>
       </Routes>
       
